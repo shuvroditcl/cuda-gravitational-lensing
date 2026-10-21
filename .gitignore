@@ -1,0 +1,14 @@
+# Compiled binaries and object files
+lens_cuda
+*.o
+*.exe
+
+# Large FITS astronomical data files
+*.fit
+*.fits
+*.tar.gz
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
