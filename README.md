@@ -79,3 +79,9 @@ nvcc -O3 -arch=sm_75 lens_cuda.cu lenses.cpp fitsfile.cpp -o lens_cuda -lcfitsio
 
 # Run full automated benchmark suite
 bash job_ass4.sh
+```
+
+**Author**<br>
+Subrota Debnath<br>
+Master of Information Sciences<br>
+Massey University
